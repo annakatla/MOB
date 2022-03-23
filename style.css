@@ -1,0 +1,23 @@
+h1 {
+  font-size: 3rem;
+}
+
+.git-lista li {
+  margin: 1rem;
+  list-style: none;
+  font-size: 2rem;
+}
+.git-lista li a {
+  text-decoration: none;
+}
+.description section {
+  margin: 1rem;
+}
+.description section:active {
+  background-color: yellow;
+}
+.sec-title {
+  color: red;
+  margin: 0;
+  padding: 0;
+}
